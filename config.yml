@@ -57,7 +57,7 @@ params:
           enabled: true
           title: "B.N.Bharat"
           subtitle: ""
-          imageUrl: "/picture.jpg"
+          imageUrl: "/Picture.jpg"
           imageWidth: 170
           imageHeight: 170
           imageTitle: B.N.Bharat
