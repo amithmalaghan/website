@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/" 
-title: Pascal Michaillat
+title:Bharath B N
 paginate: 20
 theme: PaperMod
 
@@ -31,8 +31,8 @@ menu:
           weight: 5
 
 params:
-    description: "I am an Associate Professor of Economics at UC Santa Cruz. I work on unemployment, economic slack, business cycles, macroeconomic policy, and metascience."
-    author: Pascal Michaillat
+    description: "I like to teach and conduct research in the broad area of communication engineering. Luckily for me, I earn my bread that way!"
+    author:Bharat B N
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -55,12 +55,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Pascal Michaillat
-          subtitle: "I am an Associate Professor of Economics at the University of California, Santa Cruz. I work on unemployment, economic slack, business cycles, macroeconomic policy, and metascience."
+          title: Bharat B N
+          subtitle: ""
           imageUrl: "/picture.jpeg"
           imageWidth: 170
           imageHeight: 170
-          imageTitle: Pascal Michaillat
+          imageTitle: Bharath B N
           buttons:
             - name: Papers
               url: /papers/
@@ -72,19 +72,19 @@ params:
         - name: CV
           url: "/cv.pdf"
         - name: Email
-          url: "mailto:pascal.michaillat@gmail.com"
+          url: "mailto:bharathbn@iitdh.ac.in"
         - name: Location
           url: /location/
         - name: Office Hours
           url: /officehours/
         - name: Google Scholar
-          url: "https://scholar.google.com/citations?user=cL23w-4AAAAJ"
-        - name: YouTube
-          url: "https://www.youtube.com/@pmichaillat"
-        - name: GitHub
-          url: "https://github.com/pmichaillat"
-        - name: Substack
-          url: "https://pmichaillat.substack.com"
+          url: "https://scholar.google.co.in/citations?user=AOuGtukAAAAJ"
+       # - name: YouTube
+        #  url: "https://www.youtube.com/@pmichaillat"
+        #- name: GitHub
+         # url: "https://github.com/pmichaillat"
+        #- name: Substack
+         # url: "https://pmichaillat.substack.com"
 
     assets:
         disableHLJS: true
@@ -93,7 +93,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Pascal Michaillat"
+      text: "Bharat B N"
       icon: /favicon.ico
       iconHeight: 18
 
