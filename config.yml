@@ -55,7 +55,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: "B.N.Bharat"
+          title: "B.N.Bharath"
           subtitle: ""
           imageUrl: "https://amithmalaghan.github.io/website/Picture.jpeg"
           imageWidth: 170
@@ -63,20 +63,20 @@ params:
           imageTitle: B.N.Bharat
           buttons:
             - name: Papers
-              url: /papers/
+              url: "https://amithmalaghan.github.io/website/papers/"
             - name: Courses
-              url: /courses/
+              url: "https://amithmalaghan.github.io/website/courses/"
             - name: Design
-              url: /design/
+              url: "https://amithmalaghan.github.io/website/design/"
     socialIcons:
         - name: CV
           url: "/cv.pdf"
         - name: Email
           url: "mailto:bharathbn@iitdh.ac.in"
         - name: Location
-          url: /location/
+          url: "https://amithmalaghan.github.io/website/location/"
         - name: Office Hours
-          url: /officehours/
+          url: "https://amithmalaghan.github.io/website/officehours/"
         - name: Google Scholar
           url: "https://scholar.google.co.in/citations?user=AOuGtukAAAAJ"
        # - name: YouTube
@@ -93,7 +93,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Bharat B N"
+      text: "B.N.Bharath"
       icon: /favicon.ico
       iconHeight: 18
 
