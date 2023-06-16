@@ -1,4 +1,4 @@
-baseURL: "https://amithmalaghan.github.io/website/" 
+baseURL: "https://amithmalaghan.github.io/website" 
 title: "B.N.Bharath"
 paginate: 20
 theme: PaperMod
@@ -57,7 +57,7 @@ params:
           enabled: true
           title: "B.N.Bharat"
           subtitle: ""
-          imageUrl: "/website/content/Picture.jpeg"
+          imageUrl: "/Picture.jpeg"
           imageWidth: 170
           imageHeight: 170
           imageTitle: B.N.Bharat
