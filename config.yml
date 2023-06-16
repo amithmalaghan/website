@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/" 
-title: "Bharath B N"
+baseURL: "https://amithmalaghan.github.io/website/" 
+title: "B.N.Bharath"
 paginate: 20
 theme: PaperMod
 
@@ -32,7 +32,7 @@ menu:
 
 params:
     description: "I like to teach and conduct research in the broad area of communication engineering. Luckily for me, I earn my bread that way!"
-    author: "Bharat B N"
+    author: "B.N.Bharat"
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -55,12 +55,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: "Bharat B N"
+          title: "B.N.Bharat"
           subtitle: ""
           imageUrl: "/picture.jpeg"
           imageWidth: 170
           imageHeight: 170
-          imageTitle: Bharath B N
+          imageTitle: B.N.Bharat
           buttons:
             - name: Papers
               url: /papers/
