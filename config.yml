@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/" 
-title:Bharath B N
+title:"Bharath B N"
 paginate: 20
 theme: PaperMod
 
@@ -32,7 +32,7 @@ menu:
 
 params:
     description: "I like to teach and conduct research in the broad area of communication engineering. Luckily for me, I earn my bread that way!"
-    author:Bharat B N
+    author:"Bharat B N"
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: light
